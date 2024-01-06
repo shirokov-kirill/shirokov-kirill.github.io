@@ -1,0 +1,28 @@
+.header-wrapper {
+    margin: 0px 10px 0px 10px;
+    padding: 5px;
+    display: inline;
+    color:darkgrey;
+    width: 100%;
+}
+
+.header-icon {
+    font-size: 1.8rem;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.header-nav-container {
+    margin-left: 10px;
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: grey;
+}
+
+.header-nav-item {
+    display: inline-block;
+    margin: 10px 10px 10px 10px;
+}

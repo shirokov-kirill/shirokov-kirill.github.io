@@ -1,0 +1,17 @@
+.socials-list {
+    display: inline-block;
+}
+
+.socials-list-item {
+    display: inline;
+    margin: 0px 5px 0px 5px;
+    color: lightgrey;
+}
+
+a .in-socials {
+    color: lightgrey;
+}
+
+.socials-list-item :hover {
+    color: black;
+}
