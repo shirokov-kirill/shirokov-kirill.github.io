@@ -3,7 +3,7 @@ import Socials from "./Socials";
 
 function Header() {
     return (
-        <header className="header-fixed-top">
+        <header className="header header-fixed-top">
             <div className="header-wrapper">
                 <div className="header-icon">
                     KIRILL SHIROKOV
