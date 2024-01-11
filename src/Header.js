@@ -10,9 +10,9 @@ function Header() {
                 </div>
 
                 <ul className="header-nav-container">
-                    <li class="header-nav-item"><a class="nav-item-child nav-item-hover" href="#about">About</a></li>
-                    <li class="header-nav-item"><a class="nav-item-child nav-item-hover" href="#experience">Experience</a></li>
-                    <li class="header-nav-item"><a class="nav-item-child nav-item-hover" href="#contact">Contact</a></li>
+                    <li class="header-nav-item"><a class="nav-item-hover" href="#about">About</a></li>
+                    <li class="header-nav-item"><a class="nav-item-hover" href="#experience">Experience</a></li>
+                    <li class="header-nav-item"><a class="nav-item-hover" href="#contact">Contact</a></li>
                 </ul>
 
                 <Socials/>
